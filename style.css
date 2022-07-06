@@ -1,0 +1,128 @@
+header, main {
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+
+   font-family:cursive;
+   font-size: 50px;
+   color: white
+
+}
+
+p{
+
+font-size: 50px;
+color: white;
+background-color: black;
+
+}
+
+.x{
+
+
+top: 34%;
+position: absolute;
+margin-top: -110px;
+}
+
+
+
+.jog1{
+
+    margin-left: -300px;
+    top: 34%;
+    position: absolute;
+    margin-top: -110px;
+
+}
+
+
+.jog2{
+
+    margin-left: 300px;
+    top: 34%;
+    position: absolute;
+    margin-top: -110px;
+
+}
+
+.bot1{
+
+    margin-left: -10px;
+
+    
+}
+
+.bot2{
+
+    margin-left: -10px;
+
+}
+
+button{
+
+    border-radius: 2px;
+
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(77, 0, 121) , rgb(3, 25, 20));
+  }
+
+
+
+#bot3{
+
+    
+    margin-left: 85px;
+    top: 70%;
+    position: absolute;
+    margin-top: -110px;
+    font-family: cursive;
+    background-color: rgba(74, 0, 0, 0.889);
+    color: white;
+
+
+}
+
+
+#bot4{
+    
+    margin-left: -215px;
+    top: 70%;
+    position: absolute;
+    margin-top: -110px;
+    font-family: cursive;
+    background-color: rgba(74, 0, 0, 0.889);
+    color: white;
+  
+
+
+}
+
+h2{
+
+background-color: black;
+color: white;
+
+
+}
+
+#nome1{
+    margin-top: 0px;
+    margin-left: -178px;
+    position: absolute;
+
+}
+
+#nome2{
+    margin-top: 0px;
+    margin-left: 120px;
+    position: absolute;
+
+}
+
